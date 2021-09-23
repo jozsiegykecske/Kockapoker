@@ -21,4 +21,8 @@
 - void Dobas()
 - int Ertek()
 - string ErtekSzoveg()
+
+- "Jatekos"
+- string nev
+- Kockak kockaDobas
 - 
