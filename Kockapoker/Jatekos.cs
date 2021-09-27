@@ -35,7 +35,6 @@ namespace Kockapoker
     public void Kor()
     {
       kockaDobas.Dobas();
-
     }
   }
 }
